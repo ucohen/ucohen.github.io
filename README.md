@@ -1,5 +1,14 @@
 ## Welcome to my Computer Vision And Data Science Project Pages
 
+_Current Courses_
+1. [Stanford CS231n - CNN](https://github.com/ucohen/cs231n)
+2. [Data Science course notes](https://github.com/ucohen/courses)
+
+_Current Projects_
+1. Image Classification using CNN
+2. CNN Deep Dream
+
+
 You can use the [editor on GitHub](https://github.com/ucohen/ucohen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
