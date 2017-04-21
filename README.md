@@ -2,7 +2,9 @@
 
 _Current Courses_
 1. [Stanford CS231n - CNN](https://github.com/ucohen/cs231n)
-2. [Data Science course notes](https://github.com/ucohen/courses)
+2. [Stanford CS231n - course notes](http://cs231n.github.io)
+3. [Stanford CS231n - course syllabus](http://cs231n.stanford.edu/2016/syllabus)
+4. [Data Science course notes](https://github.com/ucohen/courses)
 
 _Current Projects_
 1. Image Classification using CNN
