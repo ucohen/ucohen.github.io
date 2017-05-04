@@ -2,9 +2,9 @@
 
 _Current Courses_
 1. [Stanford CS231n - CNN](https://github.com/ucohen/cs231n)
-   [Stanford CS231n - course notes](http://cs231n.github.io)
-   [Stanford CS231n - course syllabus](http://cs231n.stanford.edu/2016/syllabus)
-2. [SLAM](https://github.com/ucohen/SLAM)
+   Course Notes: [Stanford CS231n - course notes](http://cs231n.github.io)
+   Course syllabus: [Stanford CS231n - course syllabus](http://cs231n.stanford.edu/2016/syllabus)
+2. Visula SLAM course: [SLAM](https://github.com/ucohen/SLAM)
 3. [Data Science course notes](https://github.com/ucohen/courses)
 
 _Current Projects_
