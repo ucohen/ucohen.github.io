@@ -1,1 +1,4 @@
+#General Jekyll config
+name: Curious man's page
 theme: jekyll-theme-architect
+url: "https://ucohen.github.io"
