@@ -18,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### cheetsheets
 link | description
--------------------
+-----|------------
 [Git](https://www.git-tower.com/blog/git-cheat-sheet) | git stuff  
 abc | ssss  
 asad | asdas  
