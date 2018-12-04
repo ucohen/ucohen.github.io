@@ -5,7 +5,7 @@ sudo apt-get install tmux
 -----
 
 ##### Session commands
-tmux | desc
+command | desc
 -----|-----
 tmux -V | version
 tmux ls | list sessions
@@ -16,7 +16,7 @@ tmux a -t \[session-name\] | attach to session
 
 
 ##### Window commands
-pane commands | desc
+command | desc
 --------------|-----
 Cb w | list windows
 Cb n/p | next/previous window
@@ -24,7 +24,7 @@ Cb n/p | next/previous window
 
 
 ##### Pane commands
-pane commands | desc
+command | desc
 --------------|-----
 Cb d | detach current session
 Cb x | kill current pane

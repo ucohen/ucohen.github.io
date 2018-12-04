@@ -22,6 +22,7 @@ link | description
 [Git](https://www.git-tower.com/blog/git-cheat-sheet) | git stuff  
 [GitHub guides](https://guides.github.com) | tutorials
 [GitHub markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | markdown
+[dfply readme](https://github.com/kieferk/dfply/blob/master/README.md) | dfply
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
