@@ -24,6 +24,7 @@ link | description
 [GitHub markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | markdown
 [dfply readme](https://github.com/kieferk/dfply/blob/master/README.md) | dfply
 
+[VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) | vscode
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
