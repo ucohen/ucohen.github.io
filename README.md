@@ -26,9 +26,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | [VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)      | vscode       |
 
 
-| Left-aligned | Center-aligned | Right-aligned |
+| link | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| [Git](https://www.git-tower.com/blog/git-cheat-sheet)                               | git stuff     | git status    |
+| [GitHub guides](https://guides.github.com)                                          | tutorials     | git status    |
+| [GitHub markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | markdown      | git status    |
+| [dfply readme](https://github.com/kieferk/dfply/blob/master/README.md)              | dfply         | git status    |
+| [VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)      | vscode        | git status    |
 | git diff     | git diff       | git diff      |
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
