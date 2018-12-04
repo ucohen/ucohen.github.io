@@ -16,7 +16,8 @@ You can use the [editor on GitHub](https://github.com/ucohen/ucohen.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### cheetsheets
+### cheat-sheets
+
 | link | description  |
 | -----                                                                               | ------------ |
 | [Git](https://www.git-tower.com/blog/git-cheat-sheet)                               | git stuff    |
@@ -25,14 +26,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | [dfply readme](https://github.com/kieferk/dfply/blob/master/README.md)              | dfply        |
 | [VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)      | vscode       |
 
-
-| link | description | Right-aligned |
-| :---         |     :---      |          ---: |
-| [Git](https://www.git-tower.com/blog/git-cheat-sheet)                               | git stuff     | stam    |
-| [GitHub guides](https://guides.github.com)                                          | tutorials     | stam    |
-| [GitHub markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | markdown      | stam    |
-| [dfply readme](https://github.com/kieferk/dfply/blob/master/README.md)              | dfply         | stam    |
-| [VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)      | vscode        | stam    |
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
