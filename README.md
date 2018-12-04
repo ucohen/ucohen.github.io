@@ -17,7 +17,7 @@ You can use the [editor on GitHub](https://github.com/ucohen/ucohen.github.io/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### cheetsheets
-| link                                                                                | description  |
+| link | description  |
 | -----                                                                               | ------------ |
 | [Git](https://www.git-tower.com/blog/git-cheat-sheet)                               | git stuff    |
 | [GitHub guides](https://guides.github.com)                                          | tutorials    |
@@ -26,14 +26,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | [VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)      | vscode       |
 
 
-| link | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| [Git](https://www.git-tower.com/blog/git-cheat-sheet)                               | git stuff     | git status    |
-| [GitHub guides](https://guides.github.com)                                          | tutorials     | git status    |
-| [GitHub markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | markdown      | git status    |
-| [dfply readme](https://github.com/kieferk/dfply/blob/master/README.md)              | dfply         | git status    |
-| [VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)      | vscode        | git status    |
-| git diff     | git diff       | git diff      |
+| link | description | Right-aligned |
+| :---         |     :---      |          ---: |
+| [Git](https://www.git-tower.com/blog/git-cheat-sheet)                               | git stuff     | stam    |
+| [GitHub guides](https://guides.github.com)                                          | tutorials     | stam    |
+| [GitHub markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | markdown      | stam    |
+| [dfply readme](https://github.com/kieferk/dfply/blob/master/README.md)              | dfply         | stam    |
+| [VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)      | vscode        | stam    |
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
